@@ -18,6 +18,8 @@ class ViewController: UIViewController {
 		print("O projeto já começou")
         print("Theo passou pro aqui")
 		
+		print("Ricardo Passou por aqui")
+		
 	}
 
 
