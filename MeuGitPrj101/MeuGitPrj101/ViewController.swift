@@ -23,6 +23,10 @@ class ViewController: UIViewController {
         print("Mohamed realmente passou por aqui e espirrou")
 		
         print("Lucas Frazão passou por aqui")
+		
+		print("Ricardo Passou por aqui parte 2")
+
+        
         print ("kassio esteve aqui")
         
         print("Olááá")
