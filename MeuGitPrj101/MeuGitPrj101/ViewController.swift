@@ -16,13 +16,14 @@ class ViewController: UIViewController {
 		
 		
 		print("O projeto já começou")
-		
+        print("Theo passou pro aqui")
+		print("Victor Duarte passou por aqui?")
 		print("Ricardo Passou por aqui")
+        
+        print("Mohamed realmente passou por aqui e agora vai")
 		
         print("Lucas Frazão passou por aqui")
-        
-        print("Lucas Lima passou por aqui")
-        
+        print ("kassio esteve aqui")
 	}
 
 
