@@ -37,6 +37,18 @@ class ViewController: UIViewController {
         print("Yuri passou aqui")
         print("geetai passou por aqui")
 	}
+	
+	
+	
+	
+	func funcaoDoRicardo() {
+		
+	}
+	
+	
+	func funcaodoKassio() {
+		
+	}
 
 
 }
