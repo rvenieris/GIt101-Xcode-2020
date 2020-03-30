@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 		print("Victor Duarte passou por aqui?")
 		print("Ricardo Passou por aqui")
         
-        print("Mohamed realmente passou por aqui e agora vai")
+        print("Mohamed realmente passou por aqui e espirrou")
 		
         print("Lucas Frazão passou por aqui")
         print ("kassio esteve aqui")
