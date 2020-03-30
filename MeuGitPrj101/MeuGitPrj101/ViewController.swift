@@ -18,8 +18,7 @@ class ViewController: UIViewController {
 		print("O projeto já começou")
 		
 		print("Ricardo Passou por aqui")
-        print("Diogo mandou um abs")
-		
+
 	}
 
 
